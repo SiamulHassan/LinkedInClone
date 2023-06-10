@@ -1,3 +1,7 @@
+html {
+  font-size: 62.5%;
+}
+
 ::root {
   --primary-font: "Nunito", sans-serif;
   --secondary-font: "Barlow", sans-serif;
@@ -5,6 +9,7 @@
   --secondary-text-color: #181818;
   --primary-page-bg: #fff;
   --secondary-page-bg: #f7f9fb;
+  --test: tomato;
 }
 /* 
  --button-color-start: #0077b5 ,#0E6795;
