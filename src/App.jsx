@@ -8,11 +8,19 @@ import {
 // pages
 import Registration from "./pages/Registration";
 import Login from "./pages/Login";
+import Profile from "./pages/Profile";
+
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route>
       <Route path="/registration" element={<Registration />}></Route>
       <Route path="/login" element={<Login />}></Route>
+      <Route path="/profile" element={<Profile />}>
+        {" "}
+      </Route>
+      <Route path="/profile" element={<Profile />}>
+        {" "}
+      </Route>
     </Route>
   )
 );

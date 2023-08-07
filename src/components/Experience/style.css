@@ -1,0 +1,3 @@
+.experience-box:last-child::after {
+  background-color: transparent;
+}
