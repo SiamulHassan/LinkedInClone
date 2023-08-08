@@ -72,7 +72,7 @@ const Profile = () => {
                 <Center
                   className="top-circle"
                   w="170px"
-                  h="170px"
+                  h="146px"
                   mt="-60px"
                   borderRadius="50%"
                   backgroundColor="#fff"
@@ -80,8 +80,8 @@ const Profile = () => {
                 >
                   <Center
                     className="inner-circle"
-                    w="160px"
-                    h="160px"
+                    w="140px"
+                    h="140px"
                     borderRadius="50%"
                     overflow="hidden"
                   >
